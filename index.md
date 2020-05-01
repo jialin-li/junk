@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+### About Me
 
-You can use the [editor on GitHub](https://github.com/jialin-li/junk/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a second year PhD student at the University of Washington systems lab. I work with [Tom Anderson](https://www.cs.washington.edu/people/faculty/tom) on a Quality-of-Service aware filesystem for cloud applications. I am broadly interested in operating systems and distributed systems, and more specifically in end to end performance guarantees for cloud services. I did my undergrad at University of Texas at Austin working with [Simon Peter](https://www.cs.utexas.edu/~simon/). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I also enjoy photography, musical, traveling, random walks, and finding good food :)
 
-### Markdown
+### Projects
+I have been working on a new [teaching operating system](https://gitlab.cs.washington.edu/osv-public) with another [Jialin](https://homes.cs.washington.edu/~lijl). We focus on creating a clean interface between machine dependent and machine independent code in the OS to help students understand subsystems functionality and low level details indepdently. We are also working on more testing features including data race detector and model checker. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jialin-li/junk/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Reach me at jialin@cs dot washington dot edu :)
